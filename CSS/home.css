@@ -1,0 +1,99 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.about{
+    background-color: #f5f6f8;
+
+}
+.collapsed:hover{
+    color:#47b2e4;
+}
+
+
+.hello{
+    /* margin-top: 60px; */
+    margin-left: 30px;
+    padding-top: 60px;
+}
+
+img{
+   
+    height: 400px;
+    width: 650px;
+}
+.head{
+    color:#37517e;
+}
+.accordion-item{
+    margin-bottom: 20px;
+}
+.accordion-header button{
+  color:#37517e;
+  font-family:sans-serif ;
+  font-size: 17px;
+  font-weight: bold;
+}
+.range{
+    color: #37517e;
+    font-family: sons-serif;
+    margin: 0%;
+}
+
+.text-bg{
+   color:#444444
+}
+.val{
+    /* margin-left:700px; */
+    float: right;
+    font-weight: bolder;
+   
+}
+span{
+   
+    color: black;
+  
+
+}
+.range{
+    background-color: white;
+    padding: 90px;
+
+}
+.progress{
+    margin-bottom: 10px;
+   
+}
+.progress div{
+    background-color:#37517e;
+}
+.service i{
+    font-size: 32px;
+    color: #37517e;
+}
+h1,u{
+    text-align: center;
+    padding: 20px;
+    color:#37517e
+}
+.para1{
+  text-align: center;
+    padding: 20px;
+    color:black;  
+}
+.card-body h4{
+    color: #37517e;
+}
+.card-body h4:hover{
+    color: #47b2e4;
+}
+
+
+.container h3{
+    color: #37517e;
+}
+.para{
+    text-align: center
+}
+
+    
